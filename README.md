@@ -43,7 +43,7 @@ The Adaboost Classifier was used as the [meta algorithm](https://www.quora.com/W
 The individual accuracies of the algorithms obtained are as follows -
 
 | Algorithms          |   Accuracy (%) |
-|---------------------|----------------|
+|:-------------------:|:--------------:|
 | K-Neighbors         |        79.3275 |
 | Naive Bayes         |        78.8116 |
 | SVM                 |        79.223  |
